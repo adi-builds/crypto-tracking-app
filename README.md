@@ -29,7 +29,7 @@ A modern and responsive cryptocurrency tracking application built using **React*
 1. Clone the repository
 
 ```bash id="b1zj2x"
-git clone https://github.com/your-username/crypto-tracker.git
+https://github.com/adi-builds/crypto-tracking-app
 ```
 
 2. Navigate to the project folder
@@ -57,21 +57,18 @@ npm run dev
 * CoinGecko API (free, no API key required)
   https://www.coingecko.com/en/api/documentation
 
-*(or replace with the API you used)*
+
 
 ---
 
 ## 🚀 Deployment
 
-This project can be deployed on platforms like **Vercel** or **Netlify**.
+This project deployed on Vercel and the website link is 
+https://crypto-tracking-app-xi.vercel.app/
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your app here)
-
----
 
 ## 📌 Future Improvements
 
